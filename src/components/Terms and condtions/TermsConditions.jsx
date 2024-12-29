@@ -11,7 +11,7 @@ function TermsConditions() {
    Last Updated: 16.12.2024
 </p>
 
-Welcome to <em>SwiftInbox</em>! By using our website or app (collectively, the "Service"), you agree to the following Terms and Conditions. Please read them carefully. If you do not agree, you must not use the Service.
+Welcome to <em>SwiftInbox</em>! By using our website or app, you agree to the following Terms and Conditions. Please read them carefully. If you do not agree, you must not use the Service.
 
 <h2 className='text-orange-700 font-bold p-3'>1. Acceptance of Terms  </h2>
 <p>
